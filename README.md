@@ -33,3 +33,14 @@ Note: This data was gathered from Zillow.
 URL: https://www.zillow.com/research/data/
 The data can be aqquire though this link: https://drive.google.com/file/d/1cNtzy7IwR753aXvpaYQRuEoxMfUNnYHl/view
 
+###### 4. Results:
+
+<img width="773" height="573" alt="image" src="https://github.com/user-attachments/assets/4b8de520-54bd-461a-b27d-1c9ca3c2f1f5" />
+
+. This indicates that house prices in the Dumbo neighbourhoods rise with the size of the house.
+
+<img width="767" height="589" alt="image" src="https://github.com/user-attachments/assets/fe36ad20-0475-469e-8a39-494eccfa52a8" />
+
+. This line indicate a clear progression of housing prices and sizes as it's increases to the highest peak. 
+
+
